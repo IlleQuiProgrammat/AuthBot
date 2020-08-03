@@ -1,0 +1,16 @@
+[Oo]bj/
+[Bb]in
+[Oo]ut/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+.idea/
+.vscode/
+*.dll
+*.exe
+*.so
+*.o 
+*.pfx
+Auth.db
+config.json
